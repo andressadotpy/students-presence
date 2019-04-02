@@ -1,9 +1,7 @@
 #! /usr/bin/python3
 # ChallengerSchoolStudents.py - A program to manage students presence at the "Strategy Games" classes.
-import csv
 from datetime import date
 import sys
-import operator
 
 class Students():
     """Manage students of Challenger School at Marista Santa Maria.
